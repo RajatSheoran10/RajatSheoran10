@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Rajat Sheoran 
-- 👀 I’m interested in A.I based jobs
+- 👋 Hi, I’m Rajat 
+- 👀 I’m interested in Software Engineering Jobs
 - 🌱 I’m currently learning Python🥲
 - 🍁 Would love to join creative new 
      projects
 - 🎯 Love playing chess, football in leisure
      Time.
-- 📫 Can reach me at s.rajat5250@gmail.com
+- 📫 Can reach me at sagar7rajat@gmail.com
 
 <!---
 RajatSheoran10/RajatSheoran10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
